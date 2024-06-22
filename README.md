@@ -64,7 +64,7 @@ To host this website on GitHub Pages:
 2. Go to the repository settings on GitHub.
 3. Scroll down to the "GitHub Pages" section.
 4. Select the branch to deploy from (usually `main`) and save.
-5. Your website will be available at `https://sachinmait.github.io/mait-v8-multimedia-bookstore`.
+5. Your website will be available at `https://sachinmait.github.io/MAIT-V8/` .
 
 ## Contributing
 
