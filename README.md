@@ -1,5 +1,3 @@
-### README.md
-
 # MAIT-V8 Multimedia Book Store
 
 Welcome to the MAIT-V8 Multimedia Book Store project! This repository contains the source code for our mobile-first website designed to promote and sell our innovative audio, visual, augmented reality (AR), and virtual reality (VR) books for school students. Our mission is to spread education while promoting environmental sustainability by reducing paper prints.
@@ -66,7 +64,7 @@ To host this website on GitHub Pages:
 2. Go to the repository settings on GitHub.
 3. Scroll down to the "GitHub Pages" section.
 4. Select the branch to deploy from (usually `main`) and save.
-5. Your website will be available at `https://yourusername.github.io/mait-v8-multimedia-bookstore`.
+5. Your website will be available at `https://sachinmait.github.io/mait-v8-multimedia-bookstore`.
 
 ## Contributing
 
@@ -78,7 +76,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For any inquiries, please contact us at [your-email@example.com].
+For any inquiries, please contact us at [sachin.gupta@mait.ac.in].
 
 ---
 
